@@ -6,7 +6,7 @@ I am making this list as an attempt to fill the void of any such open source lis
 
 The following are some global research internship positions:
 
-CANADA:
+CANADA
 
   * [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
 
